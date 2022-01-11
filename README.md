@@ -6,3 +6,4 @@ Given the goal that you want the AI to reach and the starting state of the 8 puz
 
 The best move is determined by a heuristic value of a given board state, which I made equal to how much it would cost to reach the board state. That way the AI will prefer to make more low costing moves than few high costing moves. 
 
+The files also have comments to go more in depth to what each method and class does.
